@@ -1,0 +1,145 @@
+2025-07-23 17:38:16,572 - QA的iPhone - INFO - name: QA的iPhone
+2025-07-23 17:38:17,024 - QA的iPhone - INFO - --> Init.activate_app
+2025-07-23 17:38:18,838 - QA的iPhone - INFO - 启动App
+2025-07-23 17:38:18,838 - QA的iPhone - DEBUG - 
+--> TestLogin.test_01_check_today
+2025-07-23 17:38:18,838 - QA的iPhone - INFO - --> TodayPage.today_otter_aichat
+2025-07-23 17:38:18,838 - QA的iPhone - INFO - today->ai对话
+2025-07-23 17:38:23,347 - QA的iPhone - INFO - --> TodayPage.today_otter_aichat_back
+2025-07-23 17:38:23,347 - QA的iPhone - INFO - today->ai对话->返回today
+2025-07-23 17:38:26,177 - QA的iPhone - INFO - --> TodayPage.today_otter_watch_button
+2025-07-23 17:38:26,177 - QA的iPhone - INFO - today->右上角手表按钮
+2025-07-23 17:38:28,863 - QA的iPhone - INFO - --> TodayPage.today_otter_watch_button_back
+2025-07-23 17:38:28,863 - QA的iPhone - INFO - today->右上角手表按钮->返回
+2025-07-23 17:38:31,482 - QA的iPhone - INFO - --> TodayPage.today_otter_data_button
+2025-07-23 17:38:31,482 - QA的iPhone - INFO - today->右上角日历按钮
+2025-07-23 17:38:33,938 - QA的iPhone - INFO - --> TodayPage.today_otter_data_button_back
+2025-07-23 17:38:33,939 - QA的iPhone - INFO - today->右上角日历按钮->返回
+2025-07-23 17:38:36,436 - QA的iPhone - INFO - --> TodayPage.today_otter_task
+2025-07-23 17:38:36,436 - QA的iPhone - INFO - today->点击目标模块（左1区域）
+2025-07-23 17:38:39,898 - QA的iPhone - INFO - --> TodayPage.otter_tab1
+2025-07-23 17:38:39,898 - QA的iPhone - INFO - otter->点击tab1
+2025-07-23 17:38:43,359 - QA的iPhone - INFO - --> TodayPage.today_otter_rings
+2025-07-23 17:38:43,359 - QA的iPhone - INFO - today->点击三环模块（左2区域）
+2025-07-23 17:38:48,483 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:38:48,484 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:38:51,005 - QA的iPhone - INFO - --> TodayPage.today_otter_sleep
+2025-07-23 17:38:51,005 - QA的iPhone - INFO - today->点击睡眠模块（右1区域）
+2025-07-23 17:38:57,858 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:38:57,863 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:00,778 - QA的iPhone - INFO - --> TodayPage.today_otter_calorie
+2025-07-23 17:39:00,778 - QA的iPhone - INFO - today->点击卡路里模块（右2区域）
+2025-07-23 17:39:04,215 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:39:04,216 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:08,467 - QA的iPhone - INFO - --> TodayPage.today_otter_step
+2025-07-23 17:39:08,468 - QA的iPhone - INFO - today->点击步数模块（右3区域）
+2025-07-23 17:39:12,046 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:39:12,046 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:14,349 - QA的iPhone - INFO - --> TodayPage.today_otter_water
+2025-07-23 17:39:14,349 - QA的iPhone - INFO - today->点击喝水模块（左3区域）
+2025-07-23 17:39:17,644 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:39:17,644 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:19,889 - QA的iPhone - INFO - --> TodayPage.today_otter_cycle
+2025-07-23 17:39:19,889 - QA的iPhone - INFO - today->点击生理周期模块（右4区域）
+2025-07-23 17:39:23,342 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:39:23,343 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:25,819 - QA的iPhone - INFO - --> TodayPage.today_otter_mood
+2025-07-23 17:39:25,819 - QA的iPhone - INFO - today->点击心情模块（右5区域）
+2025-07-23 17:39:29,211 - QA的iPhone - INFO - --> TodayPage.today_otter_mood_friend
+2025-07-23 17:39:29,211 - QA的iPhone - INFO - today->点击心情模块（右5区域）->好友
+2025-07-23 17:39:32,743 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:39:32,743 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:35,120 - QA的iPhone - INFO - --> TodayPage.today_otter_REE_bodyMetrics
+2025-07-23 17:39:35,120 - QA的iPhone - INFO - today->点击基础代谢模块（身体指标）
+2025-07-23 17:39:38,533 - QA的iPhone - INFO - --> TodayPage.today_otter_page_back
+2025-07-23 17:39:38,533 - QA的iPhone - INFO - today->模块详情页->返回
+2025-07-23 17:39:44,183 - QA的iPhone - INFO - --> TodayPage.today_otter_resp_bodyMetrics
+2025-07-23 17:39:44,183 - QA的iPhone - INFO - today->点击呼吸频率模块（身体指标）
+2025-07-23 17:39:49,130 - QA的iPhone - INFO - --> AcitivityPage.otter_tab2
+2025-07-23 17:39:49,130 - QA的iPhone - INFO - tab2 Activity页
+2025-07-23 17:39:52,455 - QA的iPhone - INFO - --> AcitivityPage.calendar_acyivity
+2025-07-23 17:39:52,455 - QA的iPhone - INFO - tab2 Activity->今日拉起日历
+2025-07-23 17:39:56,668 - QA的iPhone - INFO - --> AcitivityPage.calendar_acyivity_close
+2025-07-23 17:39:56,669 - QA的iPhone - INFO - tab2 Activity->今日拉起日历->close
+2025-07-23 17:39:59,740 - QA的iPhone - INFO - --> AcitivityPage.lunch_add_acyivity
+2025-07-23 17:39:59,740 - QA的iPhone - INFO - tab2 Activity->添加午餐按钮
+2025-07-23 17:40:03,192 - QA的iPhone - INFO - --> AcitivityPage.all_add_close_acyivity
+2025-07-23 17:40:03,192 - QA的iPhone - INFO - tab2 Activity->右下角添加按钮->关闭浮窗
+2025-07-23 17:40:05,462 - QA的iPhone - INFO - --> AcitivityPage.all_add_acyivity
+2025-07-23 17:40:05,463 - QA的iPhone - INFO - tab2 Activity->右下角添加按钮
+2025-07-23 17:40:08,959 - QA的iPhone - INFO - --> AcitivityPage.weight_add_acyivity
+2025-07-23 17:40:08,959 - QA的iPhone - INFO - tab2 Activity->体重添加按钮
+2025-07-23 17:40:13,807 - QA的iPhone - INFO - --> AcitivityPage.weight_add_acyivity
+2025-07-23 17:40:13,808 - QA的iPhone - INFO - tab2 Activity->体重添加按钮
+2025-07-23 17:40:16,917 - QA的iPhone - INFO - --> AcitivityPage.page_close_acyivity
+2025-07-23 17:40:16,917 - QA的iPhone - INFO - tab2 Activity->详情页或抽屉的关闭按钮
+2025-07-23 17:40:19,290 - QA的iPhone - INFO - --> AcitivityPage.workout_add_acyivity
+2025-07-23 17:40:19,290 - QA的iPhone - INFO - tab2 Activity->健身添加按钮
+2025-07-23 17:40:22,740 - QA的iPhone - INFO - --> AcitivityPage.page_close_acyivity
+2025-07-23 17:40:22,740 - QA的iPhone - INFO - tab2 Activity->详情页或抽屉的关闭按钮
+2025-07-23 17:40:25,104 - QA的iPhone - INFO - --> AcitivityPage.workout_acyivity
+2025-07-23 17:40:25,104 - QA的iPhone - INFO - tab2 Activity->健身日历
+2025-07-23 17:40:28,375 - QA的iPhone - INFO - --> AcitivityPage.workout_month_acyivity
+2025-07-23 17:40:28,376 - QA的iPhone - INFO - tab2 Activity->健身日历->月
+2025-07-23 17:40:31,675 - QA的iPhone - INFO - --> TaskPage.otter_tab3
+2025-07-23 17:40:31,676 - QA的iPhone - INFO - tab3 task页
+2025-07-23 17:40:35,086 - QA的iPhone - INFO - --> TaskPage.add_task
+2025-07-23 17:40:35,086 - QA的iPhone - INFO - task页->创建任务按钮
+2025-07-23 17:40:38,287 - QA的iPhone - INFO - --> TaskPage.close_task
+2025-07-23 17:40:38,288 - QA的iPhone - INFO - task页->创建任务按钮->关闭
+2025-07-23 17:40:40,735 - QA的iPhone - INFO - --> TaskPage.hat_task
+2025-07-23 17:40:40,735 - QA的iPhone - INFO - task页->点击海獭，拉起装备页面
+2025-07-23 17:40:44,109 - QA的iPhone - INFO - --> TaskPage.close_task
+2025-07-23 17:40:44,109 - QA的iPhone - INFO - task页->创建任务按钮->关闭
+2025-07-23 17:40:46,654 - QA的iPhone - INFO - --> Tab4Page.otter_tab4
+2025-07-23 17:40:46,654 - QA的iPhone - INFO - tab4 设置页
+2025-07-23 17:40:50,028 - QA的iPhone - INFO - --> Tab4Page.about_you_settings
+2025-07-23 17:40:50,028 - QA的iPhone - INFO - 设置页->关于你
+2025-07-23 17:40:52,701 - QA的iPhone - INFO - --> Tab4Page.back_page_settings
+2025-07-23 17:40:52,702 - QA的iPhone - INFO - 设置页->关闭二级页面
+2025-07-23 17:40:58,097 - QA的iPhone - INFO - --> Tab4Page.win_premium_settings
+2025-07-23 17:40:58,097 - QA的iPhone - INFO - 设置页->赢免费会员
+2025-07-23 17:41:02,090 - QA的iPhone - INFO - --> Tab4Page.noti_settings
+2025-07-23 17:41:02,091 - QA的iPhone - INFO - 设置页->通知
+2025-07-23 17:41:10,536 - QA的iPhone - INFO - --> Tab4Page.unit_back_page_settings
+2025-07-23 17:41:10,536 - QA的iPhone - INFO - 设置页->关闭单位二级页面
+2025-07-23 17:41:13,009 - QA的iPhone - INFO - --> Tab4Page.units_settings
+2025-07-23 17:41:13,009 - QA的iPhone - INFO - 设置页->单位
+2025-07-23 17:41:15,427 - QA的iPhone - INFO - --> Tab4Page.unit_back_page_settings
+2025-07-23 17:41:15,427 - QA的iPhone - INFO - 设置页->关闭单位二级页面
+2025-07-23 17:41:17,741 - QA的iPhone - INFO - --> Tab4Page.friend_settings
+2025-07-23 17:41:17,741 - QA的iPhone - INFO - 设置页->好友
+2025-07-23 17:41:20,169 - QA的iPhone - INFO - --> Tab4Page.unit_back_page_settings
+2025-07-23 17:41:20,169 - QA的iPhone - INFO - 设置页->关闭单位二级页面
+2025-07-23 17:41:24,145 - QA的iPhone - INFO - --> Tab4Page.watch_apple_settings
+2025-07-23 17:41:24,145 - QA的iPhone - INFO - 设置页->其他->苹果手表同步
+2025-07-23 17:41:27,550 - QA的iPhone - INFO - --> Tab4Page.watch_back_page_settings
+2025-07-23 17:41:27,550 - QA的iPhone - INFO - 设置页->关闭watch弹窗
+2025-07-23 17:41:33,554 - QA的iPhone - INFO - --> Tab4Page.updatelog_settings
+2025-07-23 17:41:33,555 - QA的iPhone - INFO - 设置页->其他->更新日志
+2025-07-23 17:41:39,210 - QA的iPhone - INFO - --> Tab4Page.close_agreenment_settings
+2025-07-23 17:41:39,210 - QA的iPhone - INFO - 设置页->其他->用户协议->关闭协议
+2025-07-23 17:41:42,170 - QA的iPhone - INFO - --> Tab4Page.qa_settings
+2025-07-23 17:41:42,170 - QA的iPhone - INFO - 设置页->其他->常见问题
+2025-07-23 17:41:44,558 - QA的iPhone - INFO - --> Tab4Page.close_agreenment_settings
+2025-07-23 17:41:44,558 - QA的iPhone - INFO - 设置页->其他->用户协议->关闭协议
+2025-07-23 17:41:47,406 - QA的iPhone - INFO - --> Tab4Page.feedback_settings
+2025-07-23 17:41:47,406 - QA的iPhone - INFO - 设置页->其他->问题反馈
+2025-07-23 17:41:49,881 - QA的iPhone - INFO - --> Tab4Page.close_agreenment_settings
+2025-07-23 17:41:49,881 - QA的iPhone - INFO - 设置页->其他->用户协议->关闭协议
+2025-07-23 17:41:52,417 - QA的iPhone - INFO - --> Tab4Page.agreenment_privacy_settings
+2025-07-23 17:41:52,418 - QA的iPhone - INFO - 设置页->其他->隐私协议
+2025-07-23 17:41:54,840 - QA的iPhone - INFO - --> Tab4Page.close_agreenment_settings
+2025-07-23 17:41:54,841 - QA的iPhone - INFO - 设置页->其他->用户协议->关闭协议
+2025-07-23 17:41:57,644 - QA的iPhone - INFO - --> Tab4Page.agreenment_user_settings
+2025-07-23 17:41:57,644 - QA的iPhone - INFO - 设置页->其他->用户协议
+2025-07-23 17:42:08,180 - QA的iPhone - ERROR - 	<-- Tab4Page.agreenment_user_settings, Exception, ('element not found', 'timeout 10.0')
+2025-07-23 17:42:09,922 - QA的iPhone - DEBUG - 
+--> TestLogin.test_01_check_today
+2025-07-23 17:42:09,923 - QA的iPhone - INFO - --> TodayPage.today_otter_aichat
+2025-07-23 17:42:09,923 - QA的iPhone - INFO - today->ai对话
+2025-07-23 17:42:12,681 - QA的iPhone - INFO - --> Init.activate_app
+2025-07-23 17:42:14,540 - QA的iPhone - INFO - 启动App
+2025-07-23 17:42:14,541 - QA的iPhone - INFO - 运行完case后关闭App
+2025-07-23 17:42:14,541 - QA的iPhone - INFO - --> Init.terminate_app
+2025-07-23 17:42:14,541 - QA的iPhone - INFO - 关闭App

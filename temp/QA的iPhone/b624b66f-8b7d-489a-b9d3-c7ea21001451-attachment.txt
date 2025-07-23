@@ -1,0 +1,5 @@
+INFO     iOS:log.py:39 --> Init.activate_app
+INFO     iOS:log.py:39 启动App
+INFO     iOS:log.py:39 运行完case后关闭App
+INFO     iOS:log.py:39 --> Init.terminate_app
+INFO     iOS:log.py:39 关闭App

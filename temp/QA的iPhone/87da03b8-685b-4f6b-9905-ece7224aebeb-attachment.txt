@@ -1,0 +1,139 @@
+INFO     iOS:log.py:39 --> Init.activate_app
+INFO     iOS:log.py:39 启动App
+DEBUG    iOS:log.py:36 
+--> TestLogin.test_01_check_today
+INFO     iOS:log.py:39 --> TodayPage.today_otter_aichat
+INFO     iOS:log.py:39 today->ai对话
+INFO     iOS:log.py:39 --> TodayPage.today_otter_aichat_back
+INFO     iOS:log.py:39 today->ai对话->返回today
+INFO     iOS:log.py:39 --> TodayPage.today_otter_watch_button
+INFO     iOS:log.py:39 today->右上角手表按钮
+INFO     iOS:log.py:39 --> TodayPage.today_otter_watch_button_back
+INFO     iOS:log.py:39 today->右上角手表按钮->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_data_button
+INFO     iOS:log.py:39 today->右上角日历按钮
+INFO     iOS:log.py:39 --> TodayPage.today_otter_data_button_back
+INFO     iOS:log.py:39 today->右上角日历按钮->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_task
+INFO     iOS:log.py:39 today->点击目标模块（左1区域）
+INFO     iOS:log.py:39 --> TodayPage.otter_tab1
+INFO     iOS:log.py:39 otter->点击tab1
+INFO     iOS:log.py:39 --> TodayPage.today_otter_rings
+INFO     iOS:log.py:39 today->点击三环模块（左2区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_sleep
+INFO     iOS:log.py:39 today->点击睡眠模块（右1区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_calorie
+INFO     iOS:log.py:39 today->点击卡路里模块（右2区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_step
+INFO     iOS:log.py:39 today->点击步数模块（右3区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_water
+INFO     iOS:log.py:39 today->点击喝水模块（左3区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_cycle
+INFO     iOS:log.py:39 today->点击生理周期模块（右4区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_mood
+INFO     iOS:log.py:39 today->点击心情模块（右5区域）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_mood_friend
+INFO     iOS:log.py:39 today->点击心情模块（右5区域）->好友
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_REE_bodyMetrics
+INFO     iOS:log.py:39 today->点击基础代谢模块（身体指标）
+INFO     iOS:log.py:39 --> TodayPage.today_otter_page_back
+INFO     iOS:log.py:39 today->模块详情页->返回
+INFO     iOS:log.py:39 --> TodayPage.today_otter_resp_bodyMetrics
+INFO     iOS:log.py:39 today->点击呼吸频率模块（身体指标）
+INFO     iOS:log.py:39 --> AcitivityPage.otter_tab2
+INFO     iOS:log.py:39 tab2 Activity页
+INFO     iOS:log.py:39 --> AcitivityPage.calendar_acyivity
+INFO     iOS:log.py:39 tab2 Activity->今日拉起日历
+INFO     iOS:log.py:39 --> AcitivityPage.calendar_acyivity_close
+INFO     iOS:log.py:39 tab2 Activity->今日拉起日历->close
+INFO     iOS:log.py:39 --> AcitivityPage.lunch_add_acyivity
+INFO     iOS:log.py:39 tab2 Activity->添加午餐按钮
+INFO     iOS:log.py:39 --> AcitivityPage.all_add_close_acyivity
+INFO     iOS:log.py:39 tab2 Activity->右下角添加按钮->关闭浮窗
+INFO     iOS:log.py:39 --> AcitivityPage.all_add_acyivity
+INFO     iOS:log.py:39 tab2 Activity->右下角添加按钮
+INFO     iOS:log.py:39 --> AcitivityPage.weight_add_acyivity
+INFO     iOS:log.py:39 tab2 Activity->体重添加按钮
+INFO     iOS:log.py:39 --> AcitivityPage.weight_add_acyivity
+INFO     iOS:log.py:39 tab2 Activity->体重添加按钮
+INFO     iOS:log.py:39 --> AcitivityPage.page_close_acyivity
+INFO     iOS:log.py:39 tab2 Activity->详情页或抽屉的关闭按钮
+INFO     iOS:log.py:39 --> AcitivityPage.workout_add_acyivity
+INFO     iOS:log.py:39 tab2 Activity->健身添加按钮
+INFO     iOS:log.py:39 --> AcitivityPage.page_close_acyivity
+INFO     iOS:log.py:39 tab2 Activity->详情页或抽屉的关闭按钮
+INFO     iOS:log.py:39 --> AcitivityPage.workout_acyivity
+INFO     iOS:log.py:39 tab2 Activity->健身日历
+INFO     iOS:log.py:39 --> AcitivityPage.workout_month_acyivity
+INFO     iOS:log.py:39 tab2 Activity->健身日历->月
+INFO     iOS:log.py:39 --> TaskPage.otter_tab3
+INFO     iOS:log.py:39 tab3 task页
+INFO     iOS:log.py:39 --> TaskPage.add_task
+INFO     iOS:log.py:39 task页->创建任务按钮
+INFO     iOS:log.py:39 --> TaskPage.close_task
+INFO     iOS:log.py:39 task页->创建任务按钮->关闭
+INFO     iOS:log.py:39 --> TaskPage.hat_task
+INFO     iOS:log.py:39 task页->点击海獭，拉起装备页面
+INFO     iOS:log.py:39 --> TaskPage.close_task
+INFO     iOS:log.py:39 task页->创建任务按钮->关闭
+INFO     iOS:log.py:39 --> Tab4Page.otter_tab4
+INFO     iOS:log.py:39 tab4 设置页
+INFO     iOS:log.py:39 --> Tab4Page.about_you_settings
+INFO     iOS:log.py:39 设置页->关于你
+INFO     iOS:log.py:39 --> Tab4Page.back_page_settings
+INFO     iOS:log.py:39 设置页->关闭二级页面
+INFO     iOS:log.py:39 --> Tab4Page.win_premium_settings
+INFO     iOS:log.py:39 设置页->赢免费会员
+INFO     iOS:log.py:39 --> Tab4Page.noti_settings
+INFO     iOS:log.py:39 设置页->通知
+INFO     iOS:log.py:39 --> Tab4Page.unit_back_page_settings
+INFO     iOS:log.py:39 设置页->关闭单位二级页面
+INFO     iOS:log.py:39 --> Tab4Page.units_settings
+INFO     iOS:log.py:39 设置页->单位
+INFO     iOS:log.py:39 --> Tab4Page.unit_back_page_settings
+INFO     iOS:log.py:39 设置页->关闭单位二级页面
+INFO     iOS:log.py:39 --> Tab4Page.friend_settings
+INFO     iOS:log.py:39 设置页->好友
+INFO     iOS:log.py:39 --> Tab4Page.unit_back_page_settings
+INFO     iOS:log.py:39 设置页->关闭单位二级页面
+INFO     iOS:log.py:39 --> Tab4Page.watch_apple_settings
+INFO     iOS:log.py:39 设置页->其他->苹果手表同步
+INFO     iOS:log.py:39 --> Tab4Page.watch_back_page_settings
+INFO     iOS:log.py:39 设置页->关闭watch弹窗
+INFO     iOS:log.py:39 --> Tab4Page.updatelog_settings
+INFO     iOS:log.py:39 设置页->其他->更新日志
+INFO     iOS:log.py:39 --> Tab4Page.close_agreenment_settings
+INFO     iOS:log.py:39 设置页->其他->用户协议->关闭协议
+INFO     iOS:log.py:39 --> Tab4Page.qa_settings
+INFO     iOS:log.py:39 设置页->其他->常见问题
+INFO     iOS:log.py:39 --> Tab4Page.close_agreenment_settings
+INFO     iOS:log.py:39 设置页->其他->用户协议->关闭协议
+INFO     iOS:log.py:39 --> Tab4Page.feedback_settings
+INFO     iOS:log.py:39 设置页->其他->问题反馈
+INFO     iOS:log.py:39 --> Tab4Page.close_agreenment_settings
+INFO     iOS:log.py:39 设置页->其他->用户协议->关闭协议
+INFO     iOS:log.py:39 --> Tab4Page.agreenment_privacy_settings
+INFO     iOS:log.py:39 设置页->其他->隐私协议
+INFO     iOS:log.py:39 --> Tab4Page.close_agreenment_settings
+INFO     iOS:log.py:39 设置页->其他->用户协议->关闭协议
+INFO     iOS:log.py:39 --> Tab4Page.agreenment_user_settings
+INFO     iOS:log.py:39 设置页->其他->用户协议
+ERROR    iOS:log.py:48 	<-- Tab4Page.agreenment_user_settings, Exception, ('element not found', 'timeout 10.0')
+DEBUG    iOS:log.py:36 
+--> TestLogin.test_01_check_today
+INFO     iOS:log.py:39 --> TodayPage.today_otter_aichat
+INFO     iOS:log.py:39 today->ai对话

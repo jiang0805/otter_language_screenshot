@@ -148,6 +148,42 @@ class Tab4Page(Base):
             assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
             assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
 
+    def settings_german_settings(self):
+        log.i('设置页->切换语言->跳转系统设置->切换德语')
+        if self.is_ios():
+            self.s.xpath(
+                '//Table/Cell/StaticText[@name="Deutsch"]').click()
+
+        else:
+            self.swipe_left(self.s(resourceId='app.podcast.cosmos:id/stvTitle'))
+            assert self.s(text='锋芒榜').info['selected'], '点击锋芒榜，锋芒榜未处于选中状态'
+            assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
+            assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
+
+    def settings_portuguese_settings(self):
+        log.i('设置页->切换语言->跳转系统设置->切换葡萄牙语')
+        if self.is_ios():
+            self.s.xpath(
+                '//Table/Cell/StaticText[@name="Português (Brasil)"]').click()
+
+        else:
+            self.swipe_left(self.s(resourceId='app.podcast.cosmos:id/stvTitle'))
+            assert self.s(text='锋芒榜').info['selected'], '点击锋芒榜，锋芒榜未处于选中状态'
+            assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
+            assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
+
+    def settings_france_settings(self):
+        log.i('设置页->切换语言->跳转系统设置->切换法语')
+        if self.is_ios():
+            self.s.xpath(
+                '//Table/Cell/StaticText[@name="Français"]').click()
+
+        else:
+            self.swipe_left(self.s(resourceId='app.podcast.cosmos:id/stvTitle'))
+            assert self.s(text='锋芒榜').info['selected'], '点击锋芒榜，锋芒榜未处于选中状态'
+            assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
+            assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
+
     @step
     def noti_settings(self):
         log.i('设置页->通知')
@@ -395,6 +431,27 @@ def japanese():
     page.language_settings()
     page.settings_language_settings()
     page.settings_japanese_settings()
+
+def france():
+    page.otter_tab4()
+    page.swipe_down()
+    page.language_settings()
+    page.settings_language_settings()
+    page.settings_france_settings()
+
+def german():
+    page.otter_tab4()
+    page.swipe_down()
+    page.language_settings()
+    page.settings_language_settings()
+    page.settings_german_settings()
+
+def portuguese():
+    page.otter_tab4()
+    page.swipe_down()
+    page.language_settings()
+    page.settings_language_settings()
+    page.settings_portuguese_settings()
 
 def tttt():
     page.otter_tab4()

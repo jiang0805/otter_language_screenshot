@@ -24,17 +24,17 @@ class TaskPage(Base):
             assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
             assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
 
-    # @step
-    # def close_task(self):
-    #     log.i('task页->创建任务按钮->关闭')
-    #     if self.is_ios():
-    #         self.s.xpath(
-    #             "//Window[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[2]/Other[2]/Other[2]/Image[1]").click()
-    #     else:
-    #         self.swipe_left(self.s(resourceId='app.podcast.cosmos:id/stvTitle'))
-    #         assert self.s(text='锋芒榜').info['selected'], '点击锋芒榜，锋芒榜未处于选中状态'
-    #         assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
-    #         assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
+    @step
+    def close_task(self):
+        log.i('task页->创建任务按钮->关闭')
+        if self.is_ios():
+            self.s.xpath(
+                "//Window[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[1]/Other[2]/Other[2]/Other[2]/Image[1]").click()
+        else:
+            self.swipe_left(self.s(resourceId='app.podcast.cosmos:id/stvTitle'))
+            assert self.s(text='锋芒榜').info['selected'], '点击锋芒榜，锋芒榜未处于选中状态'
+            assert not self.s(text='最热榜').info['selected'], '点击锋芒榜，最热榜未处于不选中状态'
+            assert not self.s(text='新星榜').info['selected'], '点击锋芒榜，新星榜未处于不选中状态'
 
     @step
     def hat_task(self):
